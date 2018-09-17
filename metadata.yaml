@@ -1,0 +1,25 @@
+_repo: Rules-to-be-observed-by-masters-and-pilots-of-vessels-arriving-at-the-port-of-Philadelphia-es__52482
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Philadelphia. Board of health
+    gutenberg_agent_id: '46886'
+    url: http://www.gutenberg.org/2009/agents/46886
+description: ''
+gutenberg_issued: '2016-07-02'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '52482'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'RA'
+- !lcsh 'Public health laws -- Pennsylvania -- Philadelphia'
+- GITenberg
+title: "Rules to be observed by masters and pilots of vessels, arriving at the port\
+  \ of Philadelphia,\r\nestablished by the health law, and regulations of the Board\
+  \ of Health, to which is annexed, a supplement to the health law, passed on the\
+  \ 2d day of April, 1821."
+url: http://www.gutenberg.org/ebooks/52482
