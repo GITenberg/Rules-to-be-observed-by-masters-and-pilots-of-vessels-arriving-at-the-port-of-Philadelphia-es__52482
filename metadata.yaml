@@ -1,11 +1,16 @@
 _repo: Rules-to-be-observed-by-masters-and-pilots-of-vessels-arriving-at-the-port-of-Philadelphia-es__52482
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 52482-h/images/cover.jpg
 creator:
   author:
     agent_name: Philadelphia. Board of health
     gutenberg_agent_id: '46886'
     url: http://www.gutenberg.org/2009/agents/46886
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/52482#Rules-to-be-observed-by-masters-and-pilots-of-vessels-arriving-at-the-port-of-Philadelphia-es_
 gutenberg_issued: '2016-07-02'
 gutenberg_type: Text
 identifiers:
